@@ -24,6 +24,7 @@ function App() {
       <Websites name="Nyaa.si" link="https://nyaa.si/"/>
       <Websites name="Messenger" link="https://www.messenger.com/"/>
       <Websites name="Youtube"link="https://www.youtube.com/"/>
+      <Websites name="Libgen"link="http://libgen.rs/"/>
     </div>
     </div>
   );
